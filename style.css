@@ -9,9 +9,9 @@ height, width and background color */
 .parallax-1 {
     width: 100%;
     height: 440px;
-    background: url(OneApple1.png);
+    background: url(Apple1.jpg);
     background-repeat: no-repeat;
-    background-position: 100vh 5vw;
+    background-position: -80vh -30vw;
 }
 
 /* Styling the title of first parallax */
@@ -47,7 +47,7 @@ height, width and background color */
     width: 250px;
     height: 37px;
     padding: 10px;
-    background-color: white;
+    /* background-color: white; */
     color: black;
     text-align: center;
     font-size: 30px;
@@ -81,5 +81,5 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin-top: 10px;
+    margin: 10px;
 }
