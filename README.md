@@ -1,5 +1,8 @@
 # HackBusters
 
+Object Detection by Computer Vision
+Made by Rijans Bhagat, Setu Parmar, Kushagra Saruparia
+
 The real-time detection of humans is emerging as a significant trend with data scientists and across widespread industries from smart cities to retail to surveillance. It no longer seems like science fiction to consider:
 
 Counting pedestrians along a path or crosswalk.
