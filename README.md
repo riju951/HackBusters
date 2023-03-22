@@ -25,3 +25,5 @@ Exploring object detection means understanding:
 4. Probability issues that define these tools.
 
 5. Current and prospective real-world industry 4.0 applications of this tech.
+
+We managed to complete the project in 36 hours
